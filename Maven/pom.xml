@@ -73,4 +73,14 @@
     </pluginManagement>
   </build>
   <packaging>pom</packaging>
+  <modules>
+  	
+  	
+  	
+  	<module>Maven.InsaneVehicles.view</module>
+  	<module>Maven.InsaneVehicles.controller</module>
+  	<module>Maven.InsaneVehicles.model</module>
+  	<module>Maven.InsaneVehicles.Intermediate</module>
+  	<module>Maven.InsaneVehicles.Main</module>
+  </modules>
 </project>
